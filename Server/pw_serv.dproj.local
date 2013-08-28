@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013-08-15 15:02:28.974.pas,C:\Users\Notsa\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\Notsa\Desktop\Projekty\Pw\Server\glowna.pas</Transaction>
+    <Transaction>2013-08-15 15:02:28.988.dfm,C:\Users\Notsa\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\Notsa\Desktop\Projekty\Pw\Server\glowna.dfm</Transaction>
+    <Transaction>2013-08-15 15:02:33.574.dproj,C:\Users\Notsa\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\Notsa\Desktop\Projekty\Pw\Server\pw_serv.dproj</Transaction>
+    <Transaction>2013-08-17 00:43:31.794.pas,C:\Users\Notsa\Desktop\Projekty\Pw\Server\Unit1.pas=C:\Users\Notsa\Desktop\Projekty\Pw\Server\unit_packages.pas</Transaction>
+  </Transactions>
+</BorlandProject>

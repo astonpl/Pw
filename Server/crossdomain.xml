@@ -1,0 +1,9 @@
+<?xml version="1.0"?> 
+<!DOCTYPE cross-domain-policy SYSTEM "http://www.adobe.com/xml/dtds/cross-domain-policy.dtd"> 
+<cross-domain-policy> 
+   <site-control permitted-cross-domain-policies="master-only"/>
+   <allow-access-from domain="*" to-ports="*"/>
+   <allow-access-from domain="localhost" to-ports="*"/>
+   <allow-access-from domain="pokemonworld.p.ht" to-ports="*"/>
+   <allow-access-from domain="www.pokemonworld.p.ht" to-ports="*"/>
+</cross-domain-policy>

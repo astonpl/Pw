@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013-08-07 16:49:28.100.pas,C:\Users\Notsa\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\Notsa\Desktop\Projekty\Pw\utils\gen to xml - map\Unit2.pas</Transaction>
+    <Transaction>2013-08-07 16:49:28.100.dfm,C:\Users\Notsa\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\Notsa\Desktop\Projekty\Pw\utils\gen to xml - map\Unit2.dfm</Transaction>
+    <Transaction>2013-08-07 16:49:29.273.dproj,C:\Users\Notsa\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\Notsa\Desktop\Projekty\Pw\utils\gen to xml - map\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
